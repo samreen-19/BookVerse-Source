@@ -57,15 +57,14 @@
     - Create a `.env` file in the `backend` directory with the required environment variables. Example:
 
         ```env
-        MONGODB_URI=your_mongodb_uri
-        JWT_SECRET=your_jwt_secret
+        URI=your_mongodb_uri
         PORT=5000
         ```
 
     - Start the backend server:
 
         ```bash
-        npm start
+        nodemon app.js
         ```
 
 3. **Setup Frontend:**
@@ -85,7 +84,7 @@
     - Start the frontend application:
 
         ```bash
-        npm start
+        npm run dev
         ```
 
 ## Deployment
@@ -107,9 +106,3 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries, please reach out to:
-
-- [Your Name](mailto:your-email@example.com)
-- [Your LinkedIn](https://www.linkedin.com/in/your-profile)
