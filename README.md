@@ -14,6 +14,33 @@
 ### Admin Features
 - **Manage Books:** Add, update, and delete books from the inventory.
 
+## Screenshots
+
+Here are some screenshots of the BookVerse application:
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Book Details Page
+![Book Details](screenshots/book_details.png
+)
+
+### All Books Page
+![All Books](screenshots/all_books.png
+)
+
+### Favourites Page
+![Favourites](screenshots/favourites.png
+)
+
+### Orders Placed
+![Orders](screenshots/orders_placed.png
+)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/adminpanel.png
+)
+
 ## Tech Stack
 
 - **Frontend:** React, Tailwind CSS
@@ -93,32 +120,6 @@ To use the BookVerse application locally:
 2. Open your web browser and navigate to `http://localhost:3000` (or the port specified in your frontend configuration).
 3. Use the application to browse books, manage your cart, and access features based on your role (user or admin).
 
-## Screenshots
-
-Here are some screenshots of the BookVerse application:
-
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Book Details Page
-![Book Details](screenshots/book_details.png
-)
-
-### All Books Page
-![All Books](screenshots/all_books.png
-)
-
-### Favourites Page
-![Favourites](screenshots/favourites.png
-)
-
-### Orders Placed
-![Orders](screenshots/orders_placed.png
-)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/adminpanel.png
-)
 
 ## Deployment
 
