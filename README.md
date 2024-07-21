@@ -98,22 +98,27 @@ To use the BookVerse application locally:
 Here are some screenshots of the BookVerse application:
 
 ### Homepage
-![Homepage](![homepage](https://github.com/user-attachments/assets/3b6c3c31-d922-4d0e-8643-ac0cd2445029)
-)
+![Homepage](screenshots/homepage.png)
 
 ### Book Details Page
-![Book Details](![image](https://github.com/user-attachments/assets/f1639de6-124d-4dcb-a4d4-d94e9fddf290)
+![Book Details](screenshots/book_details.png
 )
 
-### Shopping Cart
-![Shopping Cart](![image](https://github.com/user-attachments/assets/30b2ef04-ec15-4578-a8ca-feba56534fd9)
+### All Books Page
+![All Books](screenshots/all_books.png
+)
+
+### Favourites Page
+![Favourites](screenshots/favourites.png
+)
+
+### Orders Placed
+![Orders](screenshots/orders_placed.png
 )
 
 ### Admin Dashboard
-![Admin Dashboard](![image](https://github.com/user-attachments/assets/593bda01-f1d7-4f44-90df-c35b7fdcc3b0)
+![Admin Dashboard](screenshots/admin panel.png
 )
-
-*Note: Replace the image paths with the actual paths where your screenshots are stored.*
 
 ## Deployment
 
