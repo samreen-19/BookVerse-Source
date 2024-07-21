@@ -98,7 +98,7 @@ To use the BookVerse application locally:
 Here are some screenshots of the BookVerse application:
 
 ### Homepage
-![Homepage](![image](https://github.com/user-attachments/assets/d5b6a9e6-84d4-49d4-9172-c172b8d9299f)
+![Homepage](![homepage](https://github.com/user-attachments/assets/3b6c3c31-d922-4d0e-8643-ac0cd2445029)
 )
 
 ### Book Details Page
