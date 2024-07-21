@@ -117,7 +117,7 @@ Here are some screenshots of the BookVerse application:
 )
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin panel.png
+![Admin Dashboard](screenshots/adminpanel.png
 )
 
 ## Deployment
