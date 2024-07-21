@@ -9,12 +9,10 @@
 - **Book Details:** Get detailed information about individual books, including descriptions and images.
 - **Shopping Cart:** Add books to your cart, view the cart, and proceed to checkout.
 - **Favorites:** Save books to a favorites list for easy access later.
-- **Order History:** View past orders and track order status.
+- **Order History:** View past orders.
 
 ### Admin Features
 - **Manage Books:** Add, update, and delete books from the inventory.
-- **User Management:** View and manage user accounts and their activities.
-- **Statistics:** Access and analyze various metrics related to book sales and user interactions.
 
 ## Tech Stack
 
@@ -87,6 +85,36 @@
         npm run dev
         ```
 
+## Usage
+
+To use the BookVerse application locally:
+
+1. Ensure you have both the backend and frontend running on your local machine.
+2. Open your web browser and navigate to `http://localhost:3000` (or the port specified in your frontend configuration).
+3. Use the application to browse books, manage your cart, and access features based on your role (user or admin).
+
+## Screenshots
+
+Here are some screenshots of the BookVerse application:
+
+### Homepage
+![Homepage](![image](https://github.com/user-attachments/assets/d5b6a9e6-84d4-49d4-9172-c172b8d9299f)
+)
+
+### Book Details Page
+![Book Details](![image](https://github.com/user-attachments/assets/f1639de6-124d-4dcb-a4d4-d94e9fddf290)
+)
+
+### Shopping Cart
+![Shopping Cart](![image](https://github.com/user-attachments/assets/30b2ef04-ec15-4578-a8ca-feba56534fd9)
+)
+
+### Admin Dashboard
+![Admin Dashboard](![image](https://github.com/user-attachments/assets/593bda01-f1d7-4f44-90df-c35b7fdcc3b0)
+)
+
+*Note: Replace the image paths with the actual paths where your screenshots are stored.*
+
 ## Deployment
 
 - **Frontend:** Deployed on [Netlify](https://www.netlify.com/). For deployment, follow Netlify’s deployment guide.
@@ -105,4 +133,3 @@ Contributions are welcome! Please follow these steps to contribute:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
