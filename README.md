@@ -112,15 +112,6 @@ Here are some screenshots of the BookVerse application:
         npm run dev
         ```
 
-## Usage
-
-To use the BookVerse application locally:
-
-1. Ensure you have both the backend and frontend running on your local machine.
-2. Open your web browser and navigate to `http://localhost:3000` (or the port specified in your frontend configuration).
-3. Use the application to browse books, manage your cart, and access features based on your role (user or admin).
-
-
 ## Deployment
 
 - **Frontend:** Deployed on [Netlify](https://www.netlify.com/). For deployment, follow Netlify’s deployment guide.
